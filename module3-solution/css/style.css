@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 223.6px;
+}
 .navbar {
     background-color: rgb(95, 244, 152);
     padding-bottom: 0;
@@ -34,5 +38,4 @@ ul li {
 .nav-item:hover {
     background-color: #81E2F8;
 }
-@media (max-width: 767px) {
-}
+
