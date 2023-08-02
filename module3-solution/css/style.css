@@ -1,0 +1,38 @@
+.navbar {
+    background-color: rgb(95, 244, 152);
+    padding-bottom: 0;
+}
+
+.navbar-brand a {
+    text-decoration: none;
+}
+
+.navbar-brand h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 2.2em;
+
+}
+.container-fluid{
+    padding: 0;
+}
+
+button.navbar-toggler {
+    border: 2px solid #faf9f9;
+}
+
+button.navbar-toggler:focus {
+    border: 2px solid black;
+    box-shadow: none;
+}
+
+ul li {
+    font-size: 1.3em;
+    font-weight: 600;
+}
+.nav-item:hover {
+    background-color: #81E2F8;
+}
+@media (max-width: 767px) {
+}
